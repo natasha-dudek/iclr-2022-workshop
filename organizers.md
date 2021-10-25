@@ -1,7 +1,5 @@
 # Organizers
 
-## Core Team 
-
 <img src="images/natasha.jpg" alt="natasha" width="100"/>  
 
 [Natasha Dudek](https://www.linkedin.com/in/natasha-dudek/), Postdoc at McGill - Mila, Deep Learning in Bioinformatics   
@@ -45,7 +43,7 @@
 ---
 
 
-## Steering Committee
+# Steering Committee
 
 [Doina Precup](https://www.cs.mcgill.ca/~dprecup/), Associate Professor, McGill University School of Computer Science, and Mila-Quebec AI Institute. CIFAR Senior Fellow, Program in Learning in Machines and Brains. Associate Scientific Director, Healthy Brains for Healthy Lives CFREF. Research Team Lead, DeepMind, Montreal. Founder, AI for Social Good Summer Lab.   
 
