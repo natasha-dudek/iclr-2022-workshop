@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+title: "AI for Earth Sciences"
+tagline: "Virtual Conference"
+tagline: "@ICLR2022"
+github:
+  is_project_page: false
+kramdown:
+    auto_ids: true
+markdown: GFM
