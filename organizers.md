@@ -26,7 +26,7 @@
 
 <img src="images/jhansen.png" alt="jhansen" width="100"/>  
 
-[Johanna Hansen](https://johannah.github.io) [@johanbanan](https://twitter.com/johanbanan), PhD Candidate at McGill, School of Computer Science, Mobile Robotics Lab 
+[Johanna Hansen](https://johannah.github.io), [@johanbanan](https://twitter.com/johanbanan), PhD Candidate at McGill, School of Computer Science, Mobile Robotics Lab 
 
 ---
 
