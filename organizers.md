@@ -51,7 +51,7 @@
 
 [Giulio De Leo](https://profiles.stanford.edu/giulio-de-leo), Professor of Ecology and Renewable Resource Management at the Hopkins Marine Station of Stanford University. Faculty Director of the Stanford program for Disease Ecology, Health and the Environment.    
 
-[Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor at McGill in Computer Science, VP Samsung AI Research, Montréal  
+[Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor, McGill School of Computer Science. VP Research & Lead Samsung AI Center Montreal. Director (on leave), NSERC Canadian Robotics Network.  General Chair, ICRA 2019. Author of over 250 articles. Expert in underwater and amphibious robotics.
 
 [Karthik Mukkavilli](https://twitter.com/DrMukkavilli), Scientist-Entrepreneur. Co-founder/CSO, at an AI for Earth-tech Silicon Valley venture-backed startup; Director of Earth observations focused social enterprise supported by McConnell foundation, ESA and CDL. Founder of AI for Earth Sciences, ex-Chair NeurIPS/ICML workshops. Previously, ML Project Scientist, University of California and US Department of Energy, Exascale Computing; Postdoc with Turing and IPCC Nobel Laureates at Mila + Berkeley Lab. Contributing research fellow on NY Times Bestseller, Drawdown.   
 
