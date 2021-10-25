@@ -4,36 +4,36 @@
 
 <img src="images/natasha.jpg" alt="natasha" width="100"/>  
 
-[Natasha Dudek](https://www.linkedin.com/in/natasha-dudek/),Postdoc at McGill - Mila, Deep Learning in Bioinformatics   
+[Natasha Dudek](https://www.linkedin.com/in/natasha-dudek/), Postdoc at McGill - Mila, Deep Learning in Bioinformatics   
 
 ---
 
 <img src="images/valentin.png" alt="valentin" width="100"/>
 
-[Valentin Bickel](https://www.mps.mpg.de/staff/59397), Postdoc at Max Planck Institute for Solar System Research
+[Valentin Bickel](https://www.mps.mpg.de/staff/59397), [@valentin_bickel](https://twitter.com/valentin_bickel), Postdoc at Max Planck Institute for Solar System Research
 
 ---
 
 <img src="images/karianne.jpg" alt="karianne" width="100"/>
 
-[Karianne Bergen](https://www.kariannebergen.com/), Assistant Professor of Data Science and Earth, Environmental and Planetary Sciences at Brown University
+[Karianne Bergen](https://www.kariannebergen.com/), [@KarianneBergen](https://twitter.com/KarianneBergen), Assistant Professor of Data Science and Earth, Environmental and Planetary Sciences at Brown University
 
 ---
 
 <img src="images/william.jpg" alt="william" width="100"/>
 
-[William Chapman](https://twitter.com/willericchapman?lang=en), PhD Candidate in Oceanography from the Scripps Institution of Oceanography at the University of California San Diego
+[William Chapman](https://scholar.google.com/citations?user=C1ox2CEAAAAJ&hl=en), [@willericchapman](https://twitter.com/willericchapman), PhD Candidate in Oceanography from the Scripps Institution of Oceanography at the University of California San Diego
 
 ---
 
 <img src="images/jhansen.png" alt="jhansen" width="100"/>  
 
-[Johanna Hansen](https://johannah.github.io) [@johanbanan](https://twitter.com/johanbanan)  
-PhD Candidate at McGill, School of Computer Science, Mobile Robotics Lab 
+[Johanna Hansen](https://johannah.github.io) [@johanbanan](https://twitter.com/johanbanan), PhD Candidate at McGill, School of Computer Science, Mobile Robotics Lab 
 
 ---
 
 <img src="images/stewart.jpg" alt="stewart" width="100"/>  
+
 [Stewart Jamieson](https://www.stewartjamieson.com), PhD Student in the MIT-WHOI Joint Program in Applied Ocean Science and Oceanography
 
 ---
