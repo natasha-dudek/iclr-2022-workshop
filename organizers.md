@@ -8,7 +8,7 @@
 
 ---
 
-<img src="images/valintin.png" alt="valentin" width="100"/>
+<img src="images/valentin.png" alt="valentin" width="100"/>
 
 [Valentin Bickel](https://www.mps.mpg.de/staff/59397), Postdoc at Max Planck Institute for Solar System Research
 
