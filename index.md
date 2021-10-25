@@ -22,7 +22,7 @@ We showcase cutting-edge applications of machine learning to Earth and space sci
 
 <img src="images/jeff_clune.jpeg" alt="jeff" width="100"/>  
 
-[Jeff Clune (Ecology)](http://jeffclune.com/), Research Team Leader at OpenAI
+[Jeff Clune (Ecology)](http://jeffclune.com/), Research Team Leader at OpenAI and an Associate Professor of Computer Science at the University of British Columbia
 
 <img src="images/claire-monteleoni.png" alt="claire" width="100"/>  
 
