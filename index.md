@@ -18,7 +18,7 @@ We also cultivate areas where Earth and planetary science is informing and inspi
 
 ## Important dates
 
-Submission deadline: February 26, 2022 at 12:00 AM UTC  
+Submission deadline: February 26, 2022 at 12:00 AM UTC (anywhere on earth)  
 Author notifications: March 26, 2022  
 Workshop: April 29, 2022  
 
@@ -31,8 +31,8 @@ The panel discussion will focus on model interpretability and its importance to 
 
 ## Submission instructions
 
-We are accepting two forms of submissions: papers and posters. All submissions are due by Feb 26 '22 12:00 AM UTC.
-
+We are accepting two forms of submissions: papers and posters. All submissions are due by Feb 26 '22 12:00 AM UTC (anywhere on earth).  
+ 
 **Paper submissions:** To format your paper for submission please use the [main conference LaTeX style files](https://github.com/ICLR/Master-Template/raw/master/archive/iclr2022.zip). The workshop has a strict maximum page limit of 5 pages for the main text and 3 pages for the supplemental text. Citations may use additional, unlimited pages.
 
 **Poster submissions:** Please submit an abstract for consideration. 
