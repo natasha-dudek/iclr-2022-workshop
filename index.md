@@ -29,7 +29,6 @@ The full day workshop will feature a keynote presentation (large-attendance talk
 The panel discussion will focus on model interpretability and its importance to applications of AI to Earth and Space Sciences (e.g.: the design and implementation of successful environmental policy and entrepreneurship in AI for Earth Sciences). A full schedule will be posted on our website prior to the event.
 
 
-
 ## Submission instructions
 
 We are accepting two forms of submissions: papers and posters. All submissions are due by Feb 26 '22 12:00 AM UTC.
