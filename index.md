@@ -48,7 +48,7 @@ Workshop: April 29, 2022
 
 <img src="images/mandrake.jpeg" alt="mandrake" width="100"/>  
 
-[Lukas Mandrake (Space)](https://ml.jpl.nasa.gov/people/mandrake/mandrake.html), Lucas Mandrake, Senior Researcher and group supervisor of the Machine Learning (ML) and Instrument Autonomy group at JPL 
+[Lukas Mandrake (Space)](https://ml.jpl.nasa.gov/people/mandrake/mandrake.html), Lucas Mandrake, Senior Researcher and Group Supervisor of the Machine Learning (ML) and Instrument Autonomy group at JPL 
 
 
 
