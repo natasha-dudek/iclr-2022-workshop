@@ -42,7 +42,9 @@ Workshop: April 29, 2022
 
 [Joe Paradiso (Sensors and Sampling)](https://www.media.mit.edu/people/joep/overview/), Joe Paradiso, Alexander W. Dreyfoos Professor in Media Arts and Science, Responsive Environments Group, MIT
 
+[Lukas Mandrake (Space)](https://ml.jpl.nasa.gov/people/mandrake/mandrake.html), Lucas Mandrake, Senior Researcher and group supervisor of the Machine Learning (ML) and Instrument Autonomy group at JPL 
 
+<img src="images/mandrake.jpeg" alt="mandrake" width="100"/>  
 
 ## Tentative Schedule
 
