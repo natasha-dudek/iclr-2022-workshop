@@ -27,7 +27,7 @@ Meeting: April 29, 2022
 
 **ICLR2022**    
 Registration opens: February 2, 2022 at 2:00 PM UTC via [ICLR website](https://iclr.cc/)     
-Meeting: April 25 - 29  
+Meeting: April 25 - 29, 2022     
 
 ## Tentative Schedule
 
