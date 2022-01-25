@@ -16,20 +16,17 @@ We also cultivate areas where Earth and planetary science is informing and inspi
 * Ecology     
 * Sensing and Sampling  
 
-Please see the [ICLR website](https://iclr.cc/) for details on registering for this and other workshops at ICLR. Note you must register for ICLR to attend the AI4Earth Workshop. 
+Please see the [ICLR website](https://iclr.cc/) for details on registering for this and other workshops at ICLR.  The ICLR registration fee is 50 USD for students and 100 USD for non-students.   
 
 ## Important dates
 
-**AI4Earth Workshop**    
+**AI4Earth Workshop at ICLR2022**    
 Submission deadline: February 26, 2022 at 12:00 AM UTC (anywhere on earth) via [CMT](https://cmt3.research.microsoft.com/AI4Earth2022/)   
 Author notifications: March 26, 2022  
 Meeting: April 29, 2022  
 
-Note you must register for ICLR to attend the AI4Earth Workshop. See below details.  
-
-**ICLR**    
+**ICLR2022**    
 Registration opens: February 2, 2022 at 2:00 PM UTC via [ICLR website](https://iclr.cc/)     
-Registration fee: 50 USD for students and 100 USD for non-students  
 Meeting: April 25 - 29  
 
 ## Tentative Schedule
