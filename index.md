@@ -21,12 +21,12 @@ Please see the [ICLR website](https://iclr.cc/) for details on registering for t
 ## Important dates
 
 **AI4Earth Workshop:**    
-Submission deadline: February 26, 2022 at 12:00 AM UTC (anywhere on earth)  
+Submission deadline: February 26, 2022 at 12:00 AM UTC (anywhere on earth) via [CMT](https://cmt3.research.microsoft.com/AI4Earth2022/)   
 Author notifications: March 26, 2022  
 Meeting: April 29, 2022  
  
 **ICLR Registration:**    
-Opens: February 2, 2022 at 2:00 PM UTC   
+Opens: February 2, 2022 at 2:00 PM UTC via [ICLR website](https://iclr.cc/)     
 Last day to cancel: April 12, 2022 at 3:00 PM UTC   
 Meeting: April 25 - 29  
 
