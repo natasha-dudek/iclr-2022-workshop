@@ -16,6 +16,8 @@ We also cultivate areas where Earth and planetary science is informing and inspi
 * Ecology     
 * Sensing and Sampling  
 
+Please see the [ICLR website](https://iclr.cc/) for details on registering for this and other workshops at ICLR. 
+
 ## Important dates
 
 Submission deadline: February 26, 2022 at 12:00 AM UTC (anywhere on earth)  
