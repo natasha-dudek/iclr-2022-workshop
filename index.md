@@ -42,7 +42,7 @@ We are accepting two forms of submissions: papers and posters. All submissions a
  
 **Paper submissions:** To format your paper for submission please use the [main conference LaTeX style files](https://github.com/ICLR/Master-Template/raw/master/archive/iclr2022.zip). The workshop has a strict maximum page limit of 5 pages for the main text and 3 pages for the supplemental text. Citations may use additional, unlimited pages.
 
-**Poster submissions:** Please submit an abstract for consideration. 
+**Poster submissions:** Please submit an abstract for consideration. While there is no page restriction on the abstract, concise submissions are encouraged. Explanatory figures are welcome.  
 
 Please note that ICLR policy states:
 "Workshops are not a venue for work that has been previously published in other conferences on machine learning. Work that is presented at the main ICLR conference should not appear in a workshop."
