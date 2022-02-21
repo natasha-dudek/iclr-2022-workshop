@@ -38,7 +38,7 @@ The panel discussion will focus on model interpretability and its importance to 
 
 ## Submission instructions
 
-We are accepting two forms of submissions: papers and posters. All submissions are due via [CMT](https://cmt3.research.microsoft.com/AI4Earth2022/) by Feb 26 '22 12:00 AM UTC (anywhere on earth). 
+We are accepting two forms of submissions: papers and posters. All submissions are due via [CMT](https://cmt3.research.microsoft.com/AI4Earth2022/) by Feb 26 '22 12:00 AM UTC (anywhere on earth). Please anonymize your submissions as indicated in the ICLR submission instructions.  
  
 **Paper submissions:** To format your paper for submission please use the [main conference LaTeX style files](https://github.com/ICLR/Master-Template/raw/master/archive/iclr2022.zip). The workshop has a strict maximum page limit of 5 pages for the main text and 3 pages for the supplemental text. Citations may use additional, unlimited pages.
 
