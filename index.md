@@ -3,6 +3,13 @@ layout: default
 title: AI for Earth Sciences
 ---
 ---
+
+## Submission deadline extension
+
+We are extending the submission deadline from Feb 26 at 12:00 AM UTC to February 28th at 12:00 AM AOE. In other words, we will be accepting submissions until the end of Sunday, Feb 27th AOE.
+
+## Workshop description
+
 This workshop aims to highlight work being done at the intersection of AI and the Earth and Space Sciences, with a special focus on model interpretability at the ICLR 2022 iteration of the workshop. 
 
 We showcase cutting-edge applications of machine learning to Earth and space science problems. We also cultivate areas where Earth and planetary science is informing and inspiring new developments in AI, including theoretical developments in interpretable AI models, hybrid models with knowledge-guided AI, augmenting physics-based models with AI, representation learning from graphs and manifolds in spatiotemporal models, and dimensionality reduction. New Earth and planetary science datasets and visualizations that will enable faster integration of AI into the Earth and space sciences are also of particular interest. The workshop will highlight the following contributions in special sessions: 
