@@ -36,12 +36,6 @@
 
 ---
 
-<img src="images/kelly.jpg" alt="kochanski" width="100"/>  
-
-[Kelly Kochanski](https://www.kochanski.org/kelly/), PhD from CU Boulder in surface Earth processes, now working in Climate Analytics at McKinsey & Company  
-
----
-
 
 # Steering Committee
 
