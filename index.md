@@ -4,10 +4,6 @@ title: AI for Earth and Space Science
 ---
 ---
 
-## Submission deadline extension
-
-We are extending the submission deadline from Feb 26 at 12:00 AM UTC to February 28th at 12:00 AM AOE. In other words, we will be accepting submissions until the end of Sunday AOE.
-
 ## Workshop description
 
 This workshop aims to highlight work being done at the intersection of AI and the Earth and Space Sciences, with a special focus on model interpretability at the ICLR 2022 iteration of the workshop. 
