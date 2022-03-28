@@ -16,7 +16,7 @@
 | 1:30 pm  | 2:30 pm  | [Hydrosphere Session](#hydrosphere-session) |
 | 2:30 pm  | 3:30 pm  | [Ecology Session](#ecology-session) |
 | 3:30 pm  | 4:30 pm  | [Panel Discussion](#panel-discussion) |
-| 4:30 pm  | 5:30 pm  | Closing Remarks |
+| 4:30 pm  | 4:35 pm  | Closing Remarks |
 
 ### Earth, Space, and Beyond Session
 
