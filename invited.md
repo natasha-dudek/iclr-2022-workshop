@@ -16,11 +16,6 @@ title: AI for Earth and Space Science Invited Speakers
 [Jeff Clune (Ecology)](http://jeffclune.com/), Research Team Leader at OpenAI and an Associate Professor of Computer Science at the University of British Columbia
 
 
-<img src="images/claire-monteleoni.png" alt="claire" width="100"/>  
-
-[Claire Monteleoni (Atmosphere)](https://www.colorado.edu/cs/claire-monteleoni), Associate Professor  & Associate Chair for Inclusive Excellence, University of Colorado, Boulder
-
-
 <img src="images/joe_p.jpeg" alt="joe" width="100"/>  
 
 [Joe Paradiso (Sensors and Sampling)](https://www.media.mit.edu/people/joep/overview/), Joe Paradiso, Alexander W. Dreyfoos Professor in Media Arts and Science, Responsive Environments Group, MIT
