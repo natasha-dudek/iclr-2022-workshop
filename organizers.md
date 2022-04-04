@@ -45,7 +45,7 @@
 
 [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor, McGill School of Computer Science. VP Research & Lead Samsung AI Center Montreal. Director (on leave), NSERC Canadian Robotics Network.  General Chair, ICRA 2019. Author of over 250 articles. Expert in underwater and amphibious robotics.
 
-[Karthik Mukkavilli](https://twitter.com/DrMukkavilli), Scientist-Entrepreneur. Co-founder/CSO at Vayuh.ai and Co-founder of Neura Lode; Founder AI4Earth and ex-Chair NeurIPS/ICML workshops. 
+[Karthik Mukkavilli](https://twitter.com/DrMukkavilli), Scientist-Entrepreneur. Founder Neura Lode; Former CSO and Co-founder, Vayuh.ai; Founder AI4Earth and ex-Chair NeurIPS/ICML workshops.
 
 [Amy McGovern](https://www.ou.edu/coe/cs/people/mcgovern), Lloyd G. and Joyce Austin Presidential Professor, School of Computer Science and School of Meteorology. Director, NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography.   
 
