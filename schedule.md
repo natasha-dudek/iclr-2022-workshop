@@ -7,7 +7,7 @@
 | Start time  | End time | Event |
 | ------------- | ------------- | ------------- |
 | 8:00 am  | 8:05 am  | Introductory Remarks |
-| 8:05 am  | 8:45 am  | Keynote: Amy McGovern |
+| 8:05 am  | 8:45 am  | [Keynote presentation by Amy McGovern](#keynote-presentation) |
 | 8:45 am  | 10:00 am  | [Earth, Space, and Beyond Session](#earth-space-and-beyond-session) |
 | 10:00 am  | 11:00 am  | [Poster Session](#poster-session) |
 | 11:00 am  | 12:30 pm  | [Atmosphere Session](#atmosphere-session) |
@@ -17,6 +17,16 @@
 | 2:30 pm  | 3:30 pm  | [Ecology Session](#ecology-session) |
 | 3:30 pm  | 4:30 pm  | [Panel Discussion](#panel-discussion) |
 | 4:30 pm  | 4:35 pm  | Closing Remarks |
+
+### Keynote presentation
+
+**Speaker:** [Amy McGovern](https://mcgovern-fagg.org/amy/)  
+Director, NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography  
+Lloyd G. and Joyce Austin Presidential Professor, University of Oklahoma  
+
+**Title:** Explainable, Interpretable, and Trustworthy AI for the Earth Sciences 
+
+**Abstract:** The NSF AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES) is developing trustworthy AI for a wide variety of weather, climate, and coastal phenomena. In this talk, I will briefly overview AI2ES and then focus specifically on our recent developments in developing explainable and interpretable AI for the earth sciences.  Specifically, I will discuss recent work (by Mamalakis et al, 2021; 2022) developing benchmark datasets to objectively assess XAI methods for geoscientific applications, work by Flora et al (in prep) on developing a standard toolkit for XAI for the earth sciences and to assess the validity of XAI methods, applications of XAI to a 3D CNN coastal fog predictive model by Krell, Kamangir et al  (submitted), and quantification of the sources of XAI uncertainty from deep ensembles by Gagne et al. (in prep). Because AI2ES is focused on developing AI that is deemed trustworthy by environmental forecasters and managers, I will also describe our preliminary findings on weather forecasters' perceptions of AI trustworthiness, explainability, and interpretability (Cains et al., 2022), in the comparative context of reviews of theoretical and empirical research on explainability, trust, and trustworthiness (Smith et al. in prep, Wirz et al. in prep).
 
 ### Earth, Space, and Beyond Session
 
