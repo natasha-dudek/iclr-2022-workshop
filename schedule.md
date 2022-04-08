@@ -131,16 +131,16 @@ Note: authors of accepted talks may optionally choose to present a poster. As po
 
 3:30 pm - 4:30 pm PDT
 
-**Topic:*** Model interpretability in the Earth and Space Sciences. We will discuss matters such as where the most promising and/or urgent Earth Science applications lie, what the current state-of-the-art is with regards to model interpretability (in any discipline), and where the field is heading. Audience members are welcome to ask questions via Rocket Chat our the AI for Earth Science Slack channel. 
+**Topic:** Model interpretability in the Earth and Space Sciences. We will discuss matters such as where the most promising and/or urgent Earth Science applications lie, what the current state-of-the-art is with regards to model interpretability (in any discipline), and where the field is heading. Audience members are welcome to ask questions via Rocket Chat our the AI for Earth Science Slack channel. 
  
-**Panelists:**
+**Panelists:**  
 [Leilani Gilpin](https://people.csail.mit.edu/lgilpin/): Dr. Gilpin is an Assistant Professor in Computer Science and Engineering and an affiliate of the Science & Justice Research Center at UC Santa Cruz. Her research focuses on the theories and methodologies towards monitoring, designing, and augmenting complex machines that can explain themselves for diagnosis, accountability, and liability. Her long-term research vision is for self-explaining, intelligent, machines by design.
 
 [Andrew Ross](https://asross.github.io/): Dr. Ross is a postdoctoral fellow at NYU researching how to improve ocean and climate models with hopefully-interpretable ML methods, working under Laure Zanna as part of M²LInES. Previously, he did his PhD in interpretable ML at Harvard University with Finale Doshi-Velez.
 
 [Antonios Mamalakis](https://amamalak.wixsite.com/antonios): Dr. Mamalakis is a postdoctoral researcher at the Department of Atmospheric Science of Colorado State University, working with professors Imme Ebert-Uphoff and Elizabeth Barnes. His research focuses on the application of machine learning (ML) and ML interpretability methods to climate problems, on climate predictability and teleconnections, climate change impacts, and hydrology. Dr Mamalakis holds a PhD in Civil and Environmental Engineering from the University of California, Irvine, and a MSc and a diploma from the University of Patras, Greece.
 
-**Moderators:**
-Professor Karianne Bergen, Brown University
-Dr. Natasha Dudek, McGill University and Mila
+**Moderators:**  
+Professor Karianne Bergen, Brown University  
+Dr. Natasha Dudek, McGill University and Mila  
 
