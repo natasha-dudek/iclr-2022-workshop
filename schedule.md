@@ -131,7 +131,7 @@ Note: authors of accepted talks may optionally choose to present a poster. As po
 
 3:30 pm - 4:30 pm PDT
 
-**Topic:** Model interpretability in the Earth and Space Sciences. We will discuss matters such as where the most promising and/or urgent Earth Science applications lie, what the current state-of-the-art is with regards to model interpretability (in any discipline), and where the field is heading. Audience members are welcome to ask questions via Rocket Chat our the AI for Earth Science Slack channel. 
+**Topic:** Model interpretability in the Earth and Space Sciences. We will discuss matters such as where the most promising and/or urgent Earth Science applications lie, what the current state-of-the-art is with regards to model interpretability, and where the field is heading. Audience members are welcome to ask questions via Rocket Chat our the AI for Earth Science Slack channel. 
  
 **Panelists:**  
 [Leilani Gilpin](https://people.csail.mit.edu/lgilpin/): Dr. Gilpin is an Assistant Professor in Computer Science and Engineering and an affiliate of the Science & Justice Research Center at UC Santa Cruz. Her research focuses on the theories and methodologies towards monitoring, designing, and augmenting complex machines that can explain themselves for diagnosis, accountability, and liability. Her long-term research vision is for self-explaining, intelligent, machines by design.
