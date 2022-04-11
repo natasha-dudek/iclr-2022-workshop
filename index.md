@@ -53,7 +53,6 @@ To see examples of successful past submissions see [NeurIPS2020](https://ai4eart
 --- 
 
 
-For questions, please contact us at ai4earthscience [at] gmail [dot] com or [contact us on our slack](https://join.slack.com/t/ai4earth/shared_invite/zt-1204nxswh-vWMx5xbgc1vFeRjHvARs0g)
-
+For questions, please contact us at ai4earthscience [at] gmail [dot] com or [contact us on our slack](https://join.slack.com/t/ai4earth/shared_invite/zt-170eobxsl-CBO8BVlUqqfOjsNj1ij7NA)
 
 
