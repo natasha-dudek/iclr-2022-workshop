@@ -134,7 +134,7 @@ Note: authors of accepted talks may optionally choose to present a poster. As po
 **Topic:** Model interpretability in the Earth and Space Sciences. We will discuss matters such as where the most promising and/or urgent Earth Science applications lie, what the current state-of-the-art is with regards to model interpretability, and where the field is heading. Audience members are welcome to ask questions via Rocket Chat our the AI for Earth Science Slack channel. 
  
 **Panelists:**  
-[Leilani Gilpin](https://people.csail.mit.edu/lgilpin/): Dr. Gilpin is an Assistant Professor in Computer Science and Engineering and an affiliate of the Science & Justice Research Center at UC Santa Cruz. Her research focuses on the theories and methodologies towards monitoring, designing, and augmenting complex machines that can explain themselves for diagnosis, accountability, and liability. Her long-term research vision is for self-explaining, intelligent, machines by design.
+[Leilani Gilpin](https://people.csail.mit.edu/lgilpin/): Leilani H. Gilpin is an Assistant Professor in the Department of Computer Science and Engineering at UC Santa Cruz. Her research focuses on the design and analysis of methods for autonomous systems to explain themselves. Her work has applications to robust decision-making, system debugging, and accountability. Her current work examines how generative models can be used in iterative XAI stress testing.
 
 [Andrew Ross](https://asross.github.io/): Dr. Ross is a postdoctoral fellow at NYU researching how to improve ocean and climate models with hopefully-interpretable ML methods, working under Laure Zanna as part of M²LInES. Previously, he did his PhD in interpretable ML at Harvard University with Finale Doshi-Velez.
 
