@@ -21,6 +21,23 @@ We also cultivate areas where Earth and planetary science is informing and inspi
 
 Please see the [ICLR website](https://iclr.cc/) for details on registering for this and other workshops at ICLR.  The ICLR registration fee is 50 USD for students and 100 USD for non-students.   
 
+## Information for the day of the workshop
+
+**General:**
+
+To watch the workshop: the event is live streamed via the [ICLR workshop page](https://iclr.cc/virtual/2022/workshop/4550)
+Please do not join the Zoom room unless you are an author participating in the Q&A period for your session.
+
+Asking questions during a Q&A or panel discussion: please ask via [Rocket Chat](https://iclr.cc/virtual/2022/workshop/4550) or our [workshop Slack channel](https://join.slack.com/t/ai4earth/shared_invite/zt-170eobxsl-CBO8BVlUqqfOjsNj1ij7NA). Session moderators will be continually looking for questions from the audience and relaying them to speakers.
+
+Poster session: [join the Gathertown poster room](https://app.gather.town/app/I1tkF58IbTcXKvMm/ai4ess-poster-session). Note: due to the number of workshop posters, the poster session has been split into two rooms.  
+
+Breakout rooms: after each session, there will be a Gathertown breakout room where you can meet, chat, and network with other workshop / session participants after the session. We heartily encourage you to check out your session's breakout room after the Q&A. Link coming soon.
+
+**For authors:**
+
+Exactly one author from each paper should be present at the Zoom Q&A session, which will be livestreamed. Please be sure to check-in well in advance (recommended 30-60 min ahead of time), to make sure your mic and video are working properly.
+
 ## Important dates
 
 **AI4Earth Workshop at ICLR2022**    
